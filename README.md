@@ -59,7 +59,7 @@ However, not all features work as intended, and we made various code modificatio
 ----------------------------- IMPORTANT  --------------------------
 
   
-- `Threads.zip`: This set of files includes `server.py` to launch a server that can accommodate up to four clients (IP address and port need to be adjusted according to your connection, line: 111). It also includes `client.py`, which contains a useful class in `server.py`, and `test.py`, which allows you to launch a client. You can run it multiple times, keeping the server's limit in mind, and it displays multiple players playing simultaneously. **Note:** Collisions work most of the time, so if it doesn't work on the first attempt, it is recommended to relaunch. There are some missing details regarding the end of the game and its restart due to time constraints.
+- `ThreadsRendufinal.zip`: This set of files includes `server.py` to launch a server that can accommodate up to four clients (IP address and port need to be adjusted according to your connection, line: 111). It also includes `client.py`, which contains a useful class in `server.py`, and `test.py`, which allows you to launch a client. You can run it multiple times, keeping the server's limit in mind, and it displays multiple players playing simultaneously. **Note:** Collisions work most of the time, so if it doesn't work on the first attempt, it is recommended to relaunch. There are some missing details regarding the end of the game and its restart due to time constraints.
 
 
 
